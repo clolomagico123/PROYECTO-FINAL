@@ -1,0 +1,7 @@
+El proyecto fue realizado por todos los miembros del grupo,
+distribuyendonos de la siguiente manera:
+Login del programa---------- Christofer Aly Cordero
+Main del programa----------- José Alejandro Villafuerte, Maria Fernanda Rodriguez
+Ventas---------------------- Kevin Cordón, Allan Corvalan
+Historial------------------- Hectór Galvez y Carlos Sagastume 
+Inventario------------------ Darwin Stiven, David Roberto

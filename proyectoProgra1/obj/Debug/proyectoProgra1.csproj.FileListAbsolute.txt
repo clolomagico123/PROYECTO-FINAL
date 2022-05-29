@@ -1,0 +1,16 @@
+C:\proyectoProgra1\proyectoProgra1\bin\Debug\proyectoProgra1.exe.config
+C:\proyectoProgra1\proyectoProgra1\bin\Debug\proyectoProgra1.exe
+C:\proyectoProgra1\proyectoProgra1\bin\Debug\proyectoProgra1.pdb
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.login.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.Properties.Resources.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.csproj.GenerateResource.cache
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.csproj.CoreCompileInputs.cache
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.exe
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.pdb
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.main.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.FormVer.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.FormVentas.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.FormHistorial.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.FormAgregarProducto.resources
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.csproj.AssemblyReference.cache
+C:\proyectoProgra1\proyectoProgra1\obj\Debug\proyectoProgra1.csproj.SuggestedBindingRedirects.cache
